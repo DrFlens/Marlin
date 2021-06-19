@@ -21,6 +21,7 @@
  */
 #pragma once
 
+
 /**
  * Custom Boot Screen bitmap
  *
