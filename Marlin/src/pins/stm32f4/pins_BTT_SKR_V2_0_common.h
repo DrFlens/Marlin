@@ -136,7 +136,7 @@
 //
 // Filament Runout Sensor
 //
-#define FIL_RUNOUT_PIN                      PC2   // E0DET
+#define FIL_RUNOUT_PIN                      PC15   // E0DET
 #define FIL_RUNOUT2_PIN                     PA0   // E1DET
 
 //
@@ -150,7 +150,7 @@
 // Power Loss Detection
 //
 #ifndef POWER_LOSS_PIN
-  #define POWER_LOSS_PIN                    PC15  // PWRDET
+  #define POWER_LOSS_PIN                    PC12  // PWRDET
 #endif
 
 //
